@@ -3,8 +3,8 @@ import java.util.*;
 
 public class Practica01 {
 
-    private static final String USUARIO_VALIDO = "jona";
-    private static final String CONTRASEÑA_VALIDA = "ipc";
+    private static final String USUARIO_VALIDO = "sensei_<3020059940101>";
+    private static final String CONTRASEÑA_VALIDA = "ipc1_<3020059940101>";
     private static Producto[] productos = new Producto[100];
     private static Venta[] ventas = new Venta[100];
     private static int contadorProductos = 0;
